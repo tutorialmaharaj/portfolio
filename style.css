@@ -1,0 +1,17 @@
+.line{
+    background-color: red;
+    width:70px;
+    height:6px ;  
+    margin:8px auto;
+}
+img{
+   transition:transform .2s; 
+}
+
+img:hover{
+    transform: scale(0.9);
+}
+
+body{
+    text-align: center;
+}
